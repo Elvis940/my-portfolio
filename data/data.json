@@ -1,0 +1,58 @@
+{
+    "profile": {
+        "name": "Elvis T. Harmon",
+        "location": "Ruhengeri, Rwanda",
+        "university": "INES-Ruhengeri",
+        "degree": "BSc Computer Science, Year 3",
+        "bio": "I am a passionate AI developer with expertise in machine learning and full-stack development, dedicated to building innovative solutions. My work focuses on leveraging AI to solve real-world problems, with a strong interest in quantum computing applications in healthcare. I thrive on exploring cutting-edge technologies to enhance medical decision-making and optimize healthcare systems.."
+
+    },
+
+    "projects": [
+        {
+            "title": "Women's lengeries",
+            "type": "Year 1 individual work",
+            "description": "A online platform that consist of women panties, braids and other",
+            "tech": ["html", "css", "javascript"],
+            "link": "https://github.com/Elvis940/Woman-s-Lengeries.git"
+        },
+        {
+            "title": "Employee management system",
+            "type": "Year 2 individaul work",
+            "description": "A system that manage employee data, can be use in small sectors",
+            "tech": ["Python", "mysql"],
+            "link": "https://github.com/Elvis940/Employee_Management_System.git"
+        },
+        {
+            "title": "Rwanda_tourism_sit",
+            "type": "Year 3 Group Project",
+            "description": "A Tourism sit for tourist to enjoy and select their preference",
+            "tech": ["Python", "mysql", "html/css", "javascript"],
+            "link": "https://github.com/Elvis940/Rwanda-Tour-Backend.git"
+        },
+       
+        {
+            "title": "Intelligenc system for personalized medication and data visulization",
+            "type": "Dissertation",
+            "description": "An intelligence system that help doctor to make smart decision on pateince health and display patients health in a data visualization",
+            "tech": ["Python", "Openitl", "plotly/Dash"],
+            "link": "https://github.com/Elvis940/FinalYear_Dissertation2025.git"
+        }
+       
+    ],
+    "skills": [
+        {"name": "Python", "level": 0.9},
+        {"name": "Machine Learning", "level": 0.85},
+        {"name": "Web Development", "level": 0.8}
+    ],
+    "achievements": [
+        "Machine Learning Certification",
+        "AWS Certified Developer Associate",
+        "3rd Place INES Hackathon 2024"
+    ],
+    "timeline": [
+        {"year": "2022-2023", "event": "first fullstack development project"},
+        {"year": "2023-2024", "event": "Published Research Paper on AI Ethics"},
+        {"year": "2024-2025", "event": "Developer at Google Brain"}
+    ]
+}
